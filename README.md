@@ -51,8 +51,6 @@ I enjoy understanding **how systems work under the hood**, improving performance
 - Better **system design and scalability**
 - Improving **Linux and developer tooling**
 
----
-
 ## 🎯 Interests
 
 - Backend engineering
@@ -61,15 +59,12 @@ I enjoy understanding **how systems work under the hood**, improving performance
 - System design
 - Developer productivity
 
----
-
 ## 📫 Contact
 
 - LinkedIn: [https://www.linkedin.com/in/diepenagon/]
 - Email: [dev.dapg@gmail.com]
 
 ---
-
 ⭐ Always open to learning, collaborating, and building interesting systems.
 ## 📊 GitHub Stats
 
