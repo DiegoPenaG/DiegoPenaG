@@ -22,11 +22,11 @@ I enjoy understanding **how systems work under the hood**, improving performance
 ## 🧠 Technologies & Tools
 
 ### Languages
-- Java
-- Python
-- Go
-- JavaScript
-- C (currently learning)
+- Java (junior)
+- Python (junior)
+- Go (junior)
+- JavaScript (junior)
+- C (junior)
 
 ### Backend & Databases
 - Node.js
